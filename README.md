@@ -24,7 +24,7 @@ El proyecto consiste en desarrollar un modelo de clasificación de señales de t
 # Dataset
 El dataset utilizado para el proyecto es el German Traffic Sign Recognition Benchmark (GTSRB). El mismo consta de un conjunto de imágenes de señales de tránsito de 43 clases distintas.
 
-![alt text](image.png)
+![alt text](signals.png)
 
 # Informe
 El informe del proyecto se encuentra en el archivo [`Informe.pdf`](./Informe.pdf).
